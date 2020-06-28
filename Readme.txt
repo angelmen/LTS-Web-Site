@@ -1,4 +1,7 @@
-Thanks for downloading this template!
+Visit the live web site: https://lts-jj.glitch.me/
+
+
+
 
 Template Name: eBusiness
 Template URL: https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/
